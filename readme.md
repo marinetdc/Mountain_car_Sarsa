@@ -1,3 +1,3 @@
 # Mountain Car Sarsa 
 
-Developpement de l'algorithme sarsa sur l'environement mountain car 
+Developpement de l'algorithme sarsa sur l'environnement mountain car 
